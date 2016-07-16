@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tomi Android Boilerplate</string>
+    <string name="title_activity_create">CreateActivity</string>
+</resources>
